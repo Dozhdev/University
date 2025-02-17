@@ -1,0 +1,15 @@
+package me.dozhdev.university.enums;
+
+public enum Semestre {
+
+    PRIMER_SEMESTRE,
+    SEGUNDO_SEMESTRE,
+    TERCER_SEMESTRE,
+    CUARTO_SEMESTRE,
+    QUINTO_SEMESTRE,
+    SEXTO_SEMESTRE,
+    SEPTIMO_SEMESTRE,
+    OCTAVO_SEMESTRE,
+    DECIMO_SEMESTRE
+
+}
